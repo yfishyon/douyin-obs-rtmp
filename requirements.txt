@@ -1,0 +1,2 @@
+mitmproxy
+obs-websocket-py
